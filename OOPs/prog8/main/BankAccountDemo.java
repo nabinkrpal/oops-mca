@@ -22,3 +22,7 @@ public class BankAccountDemo {
         currentAccount.displayAccountDetails();
     }
 }
+// prpg8> javac bank/*.java main/*.java
+// java main.BankAccountDemo
+
+
