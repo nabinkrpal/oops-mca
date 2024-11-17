@@ -56,4 +56,7 @@ public class JDBCExample {
 //ID: 1, Name: Alice, Email: alice@example.com
 //ID: 2, Name: Bob, Email: bob@example.com
 //Goodbye!
+//javac -cp .;lib/mysql-connector-java-8.0.28.jar src/JDBCExample.java -d bin
+//java -cp bin;lib/mysql-connector-java-8.0.28.jar JDBCExample
+
 
